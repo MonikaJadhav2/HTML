@@ -1,0 +1,43 @@
+* What are headings?
+.Headings define importance and structure of content.
+
+HTML provides 6 heading levels:
+. <h1> to <h6>
+. <h1> → most important
+. <h6> → least important
+
+Use only one <h1> per page
+
+Do not skip levels
+❌ h1 → h3
+✅ h1 → h2 → h3
+
+Don’t use headings just to make text big
+
+🔹 What is a paragraph?
+A paragraph represents a block of text.
+
+HTML tag:
+<p>
+
+🔹 Important behavior of <p>
+Browser automatically adds margin
+Extra spaces & new lines are ignored
+Text wraps automatically
+
+🔹 Line breaks vs paragraphs
+<p> → new block
+<br> → new line inside same block
+
+3️⃣ formatting.html
+This is where text styling + meaning comes in.
+
+⚠️ VERY IMPORTANT:
+Some tags are visual, some are semantic.
+
+🔹 Visual vs Semantic (KEY CONCEPT)
+Visual	Semantic
+<b>	<strong>
+<i>	<em>
+
+Semantic tags tell meaning, not just appearance.
