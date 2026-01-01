@@ -1,0 +1,55 @@
+🔹 What is an Ordered List?
+An ordered list is used when sequence matters.
+
+HTML tags:
+<ol>
+   <li>Item</li>
+</ol>
+
+🔹 Real-life use cases:
+1.Step-by-step instructions
+2.Rankings
+3.Processes (registration steps)
+
+🔹 Attributes of <ol> (IMPORTANT) type
+Controls numbering style:
+1 → Numbers (default)
+A → Uppercase letters
+a → Lowercase letters
+I → Roman numerals
+i → Lowercase roman
+
+start:Defines starting number
+
+reversed:Reverses numbering
+
+🔹 What is an Unordered List?
+Used when order does NOT matter.
+
+HTML tags:
+<ul>
+   <li>Item</li>
+</ul>
+
+🔹 Real-life use cases
+1. Navigation menus
+2. Feature lists
+3. Categories
+
+🔹 Bullet styles (via CSS usually)
+HTML has type attribute (deprecated), but we mention it for understanding:
+disc
+circle
+square
+
+👉 Styling is done using CSS, not HTML.
+
+🔹 What is a Nested List?
+A list inside another list.
+
+📌 Rule:Nested list must be inside <li>
+
+🔹 Real-life examples:
+1. Website menus
+2. Syllabus
+3. Categories & subcategories
